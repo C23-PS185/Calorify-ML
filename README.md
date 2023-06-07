@@ -52,7 +52,7 @@ We have 27 classes in total:
 
 We splitted the dataset into:
 - Train (20200 images)
-- Validaiton (4685 images)
+- Validation (4685 images)
 - Test (2359 images)
 
 ## Model Architecture
